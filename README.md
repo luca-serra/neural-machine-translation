@@ -5,7 +5,7 @@ This program is able to automatically translate sentences from French to English
 You can install the requirements using `pip install -r requirements.txt`.
 
 ## Data
-The dataset used is available from the [ManyThings.org](http://www.manythings.org/anki/) website. On this project, the fra-eng.zip file was used, which contains more than 150,000 pairs of French to English sentences. However, for the sake of time in the trial-and-error phase of the program's development, only 10,000 of those were used.
+The dataset used is available on the Data folder. It taken from the [ManyThings.org](http://www.manythings.org/anki/) website. On this project, the fra-eng.zip file was used, which contains more than 150,000 pairs of French to English sentences (in the program, it is a text called fra.txt). However, for the sake of time in the trial-and-error phase of the program's development, only 10,000 of those were used.
 
 ## Usage
 Run the python file `main.py`.
