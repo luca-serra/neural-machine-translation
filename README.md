@@ -10,4 +10,7 @@ The dataset used is available on the Data folder. It is taken from the [ManyThin
 
 ## Usage
 Run the python file `main.py`.
-This will give an insight into the data after the cleaning by printing the first few lines, then train the model on the cleaned data (it takes a bit less than 10min). Finally, it will print the [BLEU score](https://en.wikipedia.org/wiki/BLEU) for the model on both training and test set as well as an insight into the translations made by printing a sample of the predictions. 
+This will:
+* give an insight into the data after the cleaning by printing the first few lines, 
+* then train the model on the cleaned data (it takes a bit less than 10min). 
+* Finally, it will print the [BLEU score](https://en.wikipedia.org/wiki/BLEU) for the model on both training and test set as well as an insight into the translations made by printing a sample of the predictions. 
