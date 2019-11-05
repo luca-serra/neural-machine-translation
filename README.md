@@ -1,5 +1,5 @@
 # Neural Machine Translation
-This program is able to automatically translate sentences from French to English using a neural network trained on 10,000 sentences written in both languages. The architecture used is an encoder-decoder LSTM (Long Short-Term Memory) network.
+This program is able to automatically translate sentences from French to English using a neural network trained on 10,000 pairs of sentences written in both languages. The architecture used is an encoder-decoder LSTM (Long Short-Term Memory) network.
 
 ## Requirements
 You can install the requirements using `pip install -r requirements.txt`.
