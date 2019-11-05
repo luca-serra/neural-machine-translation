@@ -86,7 +86,7 @@ def save_clean_data(sentences, filename):
 	print('Saved: %s' % filename)
  
 # load dataset
-filename = 'fra.txt'
+filename = 'Data/fra.txt'
 doc = load_doc(filename)
 # split into english-french pairs
 pairs = to_pairs(doc)
